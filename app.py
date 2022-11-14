@@ -28,7 +28,7 @@ def predict():
 
     result = model.predict([li])[0]
 
-    return jsonify({'error':'false','message':'Success','habit': str(result)})
+    return jsonify({'error':'false','habit': str(result),'message':'Success'})
 
 if __name__ == '__main__':
     app.run(debug=True)
