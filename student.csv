@@ -1,0 +1,399 @@
+gender,age,address,work,Mjob,Fjob,activities,friends,health,habit
+Female,18,Urban,Not working,Home Maker,Government,yes,yes,Average,yes
+Female,17,Urban,Government,Home Maker,other,no,yes,Average,yes
+Female,15,Metropolitan,Government,Home Maker,other,no,yes,Average,no
+Female,15,Urban,Private,Doctor,Private,yes,yes,Bad,yes
+Female,16,Urban,Private,other,other,no,Occasionally,Bad,yes
+Male,16,Urban,Other,Home Maker,other,yes,yes,Bad,yes
+Male,16,Urban,Private,other,other,no,yes,Average,yes
+Female,17,Urban,Not working,other,Government,no,no,Good,no
+Male,15,Urban,Private,Home Maker,other,Occasionally,yes,Good,yes
+Trans,15,Urban,Not working,other,other,yes,yes,Bad,yes
+Female,15,Urban,Not working,Teacher,health,no,yes,Not Bad,yes
+Female,15,Urban,Government,Home Maker,other,yes,yes,Bad,no
+Male,15,Metropolitan,Not working,Doctor,Private,yes,yes,Bad,yes
+Male,15,Urban,Other,Teacher,other,no,yes,Average,yes
+Male,15,Urban,Private,other,other,Occasionally,yes,Average,yes
+Female,16,Urban,Not working,Doctor,other,no,yes,Not Bad,yes
+Female,16,Urban,Not working,Home Maker,Private,yes,yes,Not Bad,no
+Female,16,Urban,Other,other,other,yes,Occasionally,Bad,no
+Male,17,Urban,Private,Home Maker,Private,yes,yes,Bad,yes
+Male,16,Urban,Other,Doctor,other,yes,yes,Bad,yes
+Male,15,Urban,Other,Teacher,other,no,yes,Good,no
+Trans,15,Urban,Not working,Doctor,health,Other,yes,Bad,no
+Male,16,Urban,Private,Teacher,other,yes,yes,Bad,yes
+Male,16,Urban,Private,other,other,yes,yes,Bad,yes
+Female,15,Rural,Not working,Home Maker,health,yes,yes,Bad,yes
+Female,16,Urban,Private,Home Maker,Private,Occasionally,yes,Bad,no
+Male,15,Metropolitan,Private,other,other,no,yes,Bad,yes
+Male,15,Urban,Private,Doctor,Private,no,yes,Good,no
+Male,16,Urban,Not working,Home Maker,other,yes,yes,Bad,yes
+Male,16,Urban,Not working,Teacher,Government,yes,yes,Bad,yes
+Male,15,Urban,Not working,Doctor,Private,Occasionally,yes,Bad,yes
+Male,15,Urban,Not working,Home Maker,Private,yes,yes,Bad,yes
+Male,15,Rural,Other,Teacher,Home Maker,yes,yes,Bad,yes
+Other,15,Urban,Other,other,other,yes,yes,Not Bad,no
+Male,16,Urban,Private,other,other,no,yes,Bad,no
+Female,15,Urban,Other,other,other,yes,no,Bad,yes
+Male,15,Urban,Other,Teacher,Private,yes,yes,Bad,yes
+Male,16,Rural,Not working,other,Government,yes,yes,Bad,yes
+Female,15,Rural,Not working,Home Maker,health,yes,yes,Bad,no
+Female,15,Rural,Private,Home Maker,other,yes,Occasionally,Not Bad,no
+Female,16,Urban,Private,other,other,yes,yes,Average,no
+Male,15,Urban,Not working,Teacher,other,no,yes,Bad,yes
+Male,15,Urban,Not working,Home Maker,Government,Other,yes,Bad,yes
+Male,15,Urban,Private,Home Maker,Private,no,yes,Good,no
+Female,16,Urban,Private,other,Self,yes,yes,Bad,yes
+Female,15,Urban,Other,other,other,yes,yes,Bad,no
+Female,16,Urban,Other,other,Private,no,yes,Average,no
+Male,16,Urban,Other,Doctor,Private,yes,yes,Not Bad,no
+Male,15,Urban,Private,Teacher,other,no,Occasionally,Bad,yes
+Female,15,Urban,Not working,Home Maker,Government,yes,yes,Average,no
+Female,16,Urban,Private,Home Maker,Private,no,yes,Bad,no
+Female,15,Urban,Private,Doctor,other,no,yes,Bad,no
+Male,15,Urban,Private,Doctor,health,no,no,Bad,no
+Female,15,Urban,Not working,Home Maker,Private,no,yes,Bad,yes
+Female,15,Urban,Other,other,other,no,yes,Good,no
+Female,16,Urban,Government,other,other,yes,yes,Not Bad,no
+Female,15,Urban,Other,Home Maker,Private,yes,yes,Good,no
+Male,15,Urban,Not working,Teacher,health,yes,no,Bad,yes
+Male,15,Urban,Private,other,Self,yes,yes,Bad,yes
+Female,16,Urban,Private,Home Maker,other,no,yes,Bad,no
+Female,16,Rural,Not working,Doctor,Government,yes,Occasionally,Bad,no
+Female,16,Urban,Government,Home Maker,Private,Other,yes,Bad,yes
+Female,16,Urban,Private,other,Private,yes,yes,Good,no
+Other,16,Urban,Other,Teacher,health,yes,yes,Bad,no
+Female,15,Urban,Other,Home Maker,Private,yes,yes,Not Bad,no
+Female,16,Urban,Other,Teacher,Private,yes,yes,Good,no
+Male,15,Urban,Not working,other,Private,yes,yes,Average,no
+Female,16,Urban,Government,Home Maker,other,no,yes,Bad,yes
+Female,15,Rural,Private,Doctor,Private,no,yes,Bad,no
+Female,15,Rural,Government,other,other,no,yes,Average,no
+Male,16,Urban,Government,other,other,no,yes,Bad,no
+Male,15,Urban,Private,other,other,no,yes,Average,no
+Female,15,Rural,Government,other,other,no,yes,Bad,yes
+Male,16,Urban,Government,other,other,yes,no,Bad,no
+Female,16,Urban,Other,other,Private,yes,yes,Bad,yes
+Male,15,Urban,Other,Teacher,other,yes,Other,Bad,no
+Male,15,Urban,,Teacher,other,yes,yes,Good,no
+Female,16,Urban,Private,other,other,no,yes,Average,no
+Male,17,Urban,Government,other,other,Other,Occasionally,Average,no
+Female,16,Urban,Not working,Home Maker,other,no,yes,Average,no
+Male,15,Urban,Other,other,Private,yes,yes,Average,no
+Male,15,Urban,Other,other,other,no,yes,Bad,no
+Female,15,Urban,Private,Home Maker,other,no,yes,Bad,yes
+Male,15,Urban,Private,Home Maker,Private,yes,Occasionally,Bad,yes
+Female,15,Urban,Government,other,other,yes,yes,Bad,no
+Female,15,Urban,Not working,Home Maker,Private,no,yes,Bad,no
+Female,16,Urban,Private,Home Maker,other,no,no,Not Bad,no
+Female,15,Urban,Private,other,other,yes,yes,Good,no
+Male,16,Urban,Private,Home Maker,other,yes,yes,Average,no
+Male,16,Urban,Not working,Teacher,health,no,Other,Bad,yes
+Female,16,Urban,Other,other,other,no,yes,Bad,yes
+Female,15,Urban,Other,Home Maker,other,yes,yes,Good,no
+Female,16,Urban,Government,other,other,no,no,Not Bad,no
+Female,16,Urban,Private,Teacher,Private,yes,yes,Good,no
+Male,15,Urban,Private,Home Maker,health,yes,Occasionally,Bad,no
+Female,15,Rural,Government,Home Maker,other,yes,yes,Good,no
+Male,16,Rural,Other,Home Maker,other,yes,yes,Bad,yes
+Female,16,Urban,Government,other,other,no,no,Bad,yes
+Female,16,Urban,Not working,other,other,yes,yes,Good,no
+Female,16,Urban,Other,other,Self,no,yes,Average,no
+Male,16,Urban,Not working,Home Maker,Private,yes,yes,Bad,yes
+Male,16,Urban,Not working,Home Maker,Government,yes,Other,Bad,no
+Male,15,Urban,Not working,Home Maker,other,yes,yes,Bad,yes
+Female,15,Urban,Private,Home Maker,other,no,yes,Not Bad,no
+Male,15,Urban,Not working,Home Maker,other,yes,yes,Good,no
+Female,15,Urban,Other,other,health,no,no,Bad,yes
+Female,15,Urban,Private,other,other,no,yes,Average,no
+Male,16,Urban,Other,Home Maker,other,yes,yes,Bad,yes
+Male,15,Rural,Not working,other,other,yes,Other,Good,no
+Female,16,Urban,Not working,Doctor,health,Other,yes,Bad,yes
+Male,15,Urban,Not working,Teacher,Government,yes,yes,Bad,yes
+Female,16,Rural,Other,Home Maker,other,yes,yes,Not Bad,no
+Female,16,Urban,Private,Home Maker,other,yes,yes,Bad,no
+Male,15,Urban,Private,Teacher,other,no,yes,Average,no
+Male,15,Rural,Government,Doctor,Private,yes,yes,Bad,yes
+Male,16,Urban,Not working,Teacher,Government,yes,yes,Bad,yes
+Male,15,Urban,Not working,other,Government,yes,Other,Not Bad,no
+Male,16,Urban,Other,other,Private,yes,yes,Bad,no
+Trans,17,Rural,Other,other,other,yes,yes,Bad,yes
+Male,15,Urban,Not working,other,other,no,yes,Bad,yes
+Female,15,Urban,Private,Home Maker,Private,Other,yes,Good,no
+Male,15,Urban,Private,Home Maker,Private,yes,Other,Bad,no
+Female,16,Urban,Not working,other,health,yes,yes,Bad,yes
+Male,16,Urban,Not working,Doctor,other,yes,yes,Bad,yes
+Female,16,Urban,Private,other,other,no,yes,Bad,no
+Male,15,Urban,Not working,Home Maker,Private,no,yes,Bad,yes
+Female,15,Urban,Not working,other,other,yes,yes,Good,no
+Female,19,Urban,Government,Home Maker,other,no,Occasionally,Bad,no
+Male,18,Rural,Private,Home Maker,other,yes,yes,Bad,yes
+Male,16,Rural,Not working,Teacher,Government,yes,yes,Bad,yes
+Female,15,Rural,Not working,Home Maker,Government,no,yes,Bad,yes
+Female,15,Urban,Government,Home Maker,other,yes,Other,Bad,no
+Female,17,Urban,Private,other,other,no,yes,Bad,yes
+Female,16,Urban,Not working,Home Maker,other,no,yes,Bad,no
+Male,15,Rural,Not working,Home Maker,Government,no,no,Bad,yes
+Female,15,Urban,Not working,Home Maker,Self,yes,yes,Bad,no
+Male,17,Rural,Not working,Home Maker,other,no,Occasionally,Bad,yes
+Female,16,Urban,Other,other,other,Other,yes,Bad,yes
+Male,16,Urban,Government,Home Maker,other,no,no,Bad,yes
+Female,15,Urban,Not working,Teacher,Government,yes,yes,Bad,yes
+Male,15,Urban,Other,Teacher,Private,no,yes,Average,no
+Male,16,Urban,Private,Home Maker,Private,yes,yes,Not Bad,no
+Female,15,Urban,Not working,Teacher,Private,yes,yes,Bad,yes
+Female,16,Urban,Government,Home Maker,Self,no,yes,Good,no
+Male,17,Urban,Government,other,other,Other,yes,Bad,yes
+Female,15,Urban,Government,other,Private,no,yes,Bad,yes
+Female,15,Urban,Private,Doctor,Private,Other,yes,Average,no
+Female,15,Urban,Private,Home Maker,other,no,Occasionally,Bad,no
+Male,16,Urban,Not working,Teacher,Government,Occasionally,yes,Bad,yes
+Male,15,Urban,Government,Home Maker,other,no,yes,Bad,yes
+Male,18,Urban,Government,other,other,no,yes,Bad,yes
+Male,16,Urban,Government,Home Maker,other,yes,no,Bad,yes
+Female,15,Rural,Other,Home Maker,Private,yes,yes,Average,no
+Male,19,Urban,Private,Home Maker,Self,Other,yes,Bad,yes
+Female,17,Urban,Not working,other,Government,no,no,Bad,yes
+Male,15,Rural,Other,Home Maker,Private,yes,no,Good,no
+Male,17,Rural,Private,other,other,no,no,Bad,yes
+Female,18,Rural,Government,Home Maker,other,yes,Other,Bad,yes
+Male,16,Rural,Private,Home Maker,other,no,no,Average,no
+Male,16,Urban,Other,other,Private,no,yes,Bad,yes
+Male,17,Rural,Government,Home Maker,other,yes,yes,Bad,no
+Male,15,Rural,Private,other,other,no,yes,Average,no
+Male,16,Metropolitan,Private,other,other,yes,no,Bad,yes
+Male,17,Urban,Other,Home Maker,Private,Occasionally,yes,Not Bad,no
+Trans,17,Rural,Government,other,Private,yes,no,Bad,yes
+Male,16,Urban,Private,Home Maker,Private,yes,Other,Not Bad,no
+Male,16,Urban,Private,other,other,no,yes,Bad,yes
+Female,16,Urban,Private,Doctor,Private,no,yes,Average,no
+Female,16,Urban,Private,other,other,no,yes,Bad,yes
+Female,16,Urban,Not working,Doctor,health,no,yes,Average,no
+Male,16,Urban,Not working,other,other,yes,yes,Not Bad,no
+Male,16,Urban,,other,other,yes,yes,Average,no
+Male,17,Urban,Not working,Teacher,other,yes,yes,Bad,yes
+Female,16,Urban,Other,Home Maker,Private,yes,Other,Average,no
+Female,16,Urban,Other,other,other,yes,yes,Bad,yes
+Male,17,Urban,Other,Teacher,other,yes,yes,Bad,yes
+Female,16,Urban,Private,Home Maker,other,yes,yes,Bad,no
+Male,17,Urban,Other,other,other,yes,yes,Bad,yes
+Male,16,Rural,Private,Teacher,Private,yes,yes,Average,no
+Male,17,Urban,Other,other,other,yes,yes,Not Bad,no
+Male,16,Urban,Other,Teacher,other,yes,yes,Average,yes
+Male,16,Urban,Other,Home Maker,other,yes,yes,Average,yes
+Female,17,Urban,Not working,Home Maker,Private,yes,no,Bad,yes
+Female,17,Urban,Other,other,other,yes,yes,Good,no
+Female,16,Urban,Private,other,other,Other,yes,Good,no
+Male,17,Urban,Other,Home Maker,Private,yes,yes,Bad,yes
+Male,16,Urban,Private,Home Maker,Private,yes,yes,Average,yes
+Male,16,Urban,Government,other,other,yes,yes,Bad,yes
+Female,17,Urban,Other,Doctor,other,no,yes,Average,no
+Male,17,Rural,Private,Home Maker,other,no,no,Average,yes
+Female,16,Urban,Other,Home Maker,Private,no,yes,Not Bad,no
+Female,17,Urban,Government,Home Maker,Private,yes,yes,Average,yes
+Male,17,Urban,Private,Home Maker,Private,yes,yes,Bad,yes
+Male,16,Rural,Other,Home Maker,Private,yes,yes,Bad,yes
+Male,16,Urban,Other,other,other,no,yes,Average,no
+Female,17,Urban,Not working,Home Maker,Private,yes,yes,Bad,no
+Male,17,Urban,Not working,Home Maker,Government,no,yes,Bad,yes
+Male,16,Rural,Other,Teacher,other,yes,yes,Average,no
+Female,17,Urban,Not working,Home Maker,Government,no,yes,Not Bad,yes
+Female,16,Urban,Not working,Teacher,Government,no,yes,Average,no
+Female,16,Urban,Other,Doctor,other,yes,yes,Not Bad,no
+Female,16,Urban,Other,other,other,yes,no,Bad,yes
+Female,17,Urban,Government,other,other,Occasionally,no,Good,no
+Female,17,Rural,Private,other,other,no,yes,Average,no
+Other,16,Rural,Private,Home Maker,Private,yes,yes,Bad,yes
+Female,17,Urban,Not working,Home Maker,Private,no,yes,Bad,yes
+Female,16,Urban,Government,Home Maker,other,no,yes,Bad,yes
+Female,16,Urban,Other,Teacher,other,yes,yes,Good,no
+Female,16,Urban,Government,Home Maker,other,no,no,Bad,yes
+Female,17,Rural,Other,Teacher,other,yes,yes,Bad,yes
+Female,19,Urban,Other,other,other,yes,yes,Average,no
+Male,17,Urban,Not working,Home Maker,other,no,yes,Average,no
+Female,16,Urban,Private,other,other,Occasionally,yes,Bad,yes
+Male,18,Urban,Private,Home Maker,other,yes,yes,Bad,no
+Female,17,Rural,Not working,Home Maker,other,no,no,Average,no
+Female,17,Urban,Private,other,other,no,yes,Good,no
+Female,17,Urban,Other,other,other,no,yes,Good,no
+Male,18,Urban,Other,Home Maker,health,no,yes,Bad,yes
+Female,17,Metropolitan,Other,Home Maker,other,no,no,Average,no
+Female,17,Urban,Private,Home Maker,Self,yes,yes,Bad,yes
+Female,17,Rural,Government,Home Maker,Private,yes,yes,Bad,yes
+Female,17,Urban,Government,Home Maker,other,yes,no,Bad,no
+Female,16,Urban,Other,Home Maker,Government,no,yes,Average,no
+Male,18,Urban,Private,other,other,no,yes,Bad,no
+Female,16,Urban,Not working,Teacher,Private,yes,yes,Bad,yes
+Female,18,Rural,Government,other,other,yes,yes,Bad,yes
+Female,17,Urban,Private,other,other,yes,yes,Average,no
+Male,17,Urban,Other,Home Maker,Private,no,yes,Average,no
+Male,18,Urban,Government,Home Maker,other,yes,yes,Average,no
+Female,17,Urban,Government,other,other,yes,yes,Average,no
+Female,17,Metropolitan,Other,Doctor,other,yes,yes,Average,no
+Male,17,Rural,Private,other,other,yes,yes,Good,yes
+Male,17,Urban,Not working,Teacher,Government,yes,yes,Not Bad,no
+Male,16,Urban,Not working,Doctor,other,yes,yes,Good,no
+Male,16,Urban,Government,other,other,no,yes,Bad,yes
+Male,16,Urban,Private,Home Maker,other,yes,yes,Not Bad,no
+Male,17,Urban,Private,other,other,yes,yes,Bad,no
+Female,16,Urban,Government,other,other,no,yes,Bad,yes
+Female,17,Rural,Government,Home Maker,Private,yes,no,Average,no
+Male,18,Urban,Private,other,Private,no,yes,Not Bad,yes
+Male,17,Urban,Other,Doctor,other,yes,yes,Bad,yes
+Male,17,Rural,Not working,Teacher,other,no,yes,Bad,yes
+Male,16,Other,Other,Teacher,other,yes,yes,Average,no
+Male,16,Urban,Not working,Home Maker,Private,yes,yes,Bad,yes
+Female,18,Urban,Government,other,other,no,yes,Average,no
+Male,16,Urban,Government,other,other,no,yes,Bad,yes
+Male,17,Urban,Other,other,other,Occasionally,yes,Not Bad,no
+Male,22,Urban,Government,Home Maker,Private,no,yes,Good,no
+Male,18,Rural,Other,other,Private,no,yes,Bad,yes
+Trans,16,Urban,Private,other,other,Occasionally,yes,Bad,no
+Male,18,Urban,Private,Home Maker,other,no,yes,Bad,yes
+Male,16,Urban,Other,Home Maker,other,no,yes,Not Bad,yes
+Male,18,Urban,Government,Home Maker,Private,no,yes,Bad,no
+Male,16,Rural,Government,other,other,yes,no,Average,yes
+Male,17,Rural,Government,other,other,no,yes,Bad,no
+Male,17,Urban,Government,Doctor,other,yes,yes,Bad,yes
+Female,17,Urban,Private,Teacher,Private,yes,yes,Bad,yes
+Male,19,Urban,Other,Home Maker,Self,no,yes,Good,no
+Male,18,Urban,Government,other,other,yes,yes,Bad,yes
+Female,17,Urban,Private,Home Maker,Private,yes,yes,Not Bad,no
+Female,18,Urban,Other,Home Maker,other,no,Other,Not Bad,yes
+Male,18,Urban,Other,Teacher,other,no,yes,Average,yes
+Male,18,Rural,Private,other,other,yes,no,Average,no
+Female,17,Urban,Other,other,other,yes,no,Bad,yes
+Female,18,Urban,Private,Home Maker,Private,yes,yes,Average,no
+Male,18,Rural,Not working,other,other,yes,yes,Good,no
+Male,17,Urban,Government,Home Maker,other,yes,yes,Bad,yes
+Female,18,Rural,Not working,Teacher,other,yes,yes,Bad,yes
+Male,18,Urban,Private,Doctor,other,yes,yes,Bad,yes
+Female,18,Rural,Government,other,other,no,yes,Average,no
+Female,19,Urban,Other,other,Private,yes,yes,Bad,yes
+Female,18,Urban,Other,other,Private,yes,yes,Not Bad,no
+Female,18,Urban,Government,other,other,no,no,Average,yes
+Male,17,Rural,Private,Home Maker,Self,yes,no,Good,no
+Female,17,Urban,Not working,Home Maker,health,Occasionally,yes,Good,no
+Female,17,Urban,Private,Home Maker,other,no,yes,Bad,yes
+Female,18,Rural,Private,other,Private,no,yes,Bad,yes
+Male,18,Urban,Not working,Teacher,Private,yes,yes,Average,no
+Female,18,Urban,Not working,Doctor,health,yes,yes,Bad,yes
+Male,18,Urban,Other,Teacher,Private,yes,yes,Good,no
+Male,17,Urban,Government,Home Maker,other,yes,Other,Bad,yes
+Male,17,Urban,Private,Teacher,Private,no,yes,Average,no
+Female,18,Rural,Government,Home Maker,other,yes,no,Average,no
+Female,18,Urban,Government,other,other,yes,yes,Bad,yes
+Female,17,Other,Private,other,other,no,yes,Bad,yes
+Male,17,Urban,Government,other,other,no,yes,Bad,no
+Female,18,Urban,Private,Home Maker,Self,no,yes,Not Bad,yes
+Female,17,Urban,Government,Home Maker,Government,no,yes,Average,yes
+Male,18,Urban,Government,Home Maker,Private,yes,yes,Not Bad,no
+Male,18,Urban,Not working,Teacher,Government,yes,Other,Not Bad,yes
+Male,18,Urban,Private,Teacher,other,yes,yes,Bad,yes
+Female,17,Urban,Other,Doctor,Private,Occasionally,yes,Average,yes
+Female,18,Urban,Government,Home Maker,Self,no,yes,Bad,yes
+Other,17,Rural,Government,Home Maker,other,no,no,Average,no
+Male,18,Rural,Private,Home Maker,other,yes,Other,Bad,no
+Male,17,Urban,Other,Doctor,other,no,yes,Bad,yes
+Female,19,Urban,Not working,Doctor,other,yes,yes,Not Bad,no
+Female,18,Urban,Other,other,other,no,yes,Not Bad,no
+Female,18,Other,Other,other,other,no,yes,Average,no
+Male,18,Urban,Not working,Teacher,Government,no,yes,Good,no
+Female,18,Urban,Not working,Doctor,other,no,yes,Bad,yes
+Male,17,Urban,Not working,other,Government,Occasionally,yes,Bad,no
+Female,17,Urban,Private,other,other,no,yes,Average,no
+Female,17,Urban,Private,Doctor,health,yes,yes,Bad,yes
+Male,19,Urban,Other,other,other,yes,yes,Average,no
+Female,18,Urban,Not working,Home Maker,Self,yes,yes,Average,no
+Male,20,Urban,Private,Home Maker,other,yes,no,Bad,yes
+Male,19,Urban,Not working,Teacher,Private,no,Other,Bad,no
+Male,19,Rural,Other,other,Private,yes,no,Bad,yes
+Female,19,Other,Government,Home Maker,other,yes,yes,Average,no
+Female,19,Urban,Private,Home Maker,Private,yes,no,Average,yes
+Female,19,Urban,Government,Home Maker,other,no,yes,Not Bad,no
+Male,19,Urban,Private,other,Private,no,yes,Bad,yes
+Female,19,Urban,Private,Home Maker,other,no,yes,Good,no
+Female,19,Urban,Government,Home Maker,health,Occasionally,yes,Average,yes
+Female,19,Rural,Other,other,other,no,yes,Average,no
+Female,18,Urban,Government,Home Maker,other,yes,yes,Good,no
+Female,18,Other,Other,other,other,yes,yes,Bad,yes
+Female,17,Rural,Not working,Home Maker,Private,yes,yes,Bad,no
+Female,18,Urban,Not working,Teacher,other,no,yes,Bad,yes
+Female,17,Urban,Other,Home Maker,Private,no,yes,Bad,yes
+Female,17,Urban,Private,other,other,no,Occasionally,Average,no
+Female,17,Rural,Private,Home Maker,Private,yes,yes,Average,no
+Female,17,Urban,Government,Home Maker,Private,no,yes,Bad,yes
+Female,17,Urban,Private,Home Maker,Self,no,yes,Not Bad,no
+Male,18,Urban,Not working,other,other,yes,yes,Average,no
+Male,17,Urban,Other,other,Private,yes,yes,Bad,yes
+Male,17,Rural,Private,Home Maker,other,no,yes,Bad,no
+Female,17,Urban,Not working,Teacher,Private,yes,yes,Bad,yes
+Female,17,Urban,Not working,Teacher,Government,no,yes,Bad,yes
+Male,18,Urban,Private,other,other,yes,yes,Bad,yes
+Female,17,Rural,Not working,Home Maker,other,no,yes,Bad,yes
+Female,18,Urban,Other,Home Maker,Private,yes,yes,Bad,yes
+Female,18,Urban,Private,other,other,yes,yes,Not Bad,no
+Female,18,Rural,Private,Home Maker,other,yes,no,Bad,yes
+Female,17,Urban,Not working,Home Maker,other,no,yes,Bad,no
+Female,19,Rural,Government,Home Maker,Self,Occasionally,no,Bad,yes
+Female,17,Urban,Private,other,other,no,yes,Not Bad,no
+Female,18,Metropolitan,Other,Home Maker,Private,no,yes,Good,no
+Female,17,Rural,Private,other,other,no,yes,Not Bad,yes
+Female,19,Urban,Government,Home Maker,Private,yes,yes,Average,yes
+Male,18,Urban,Not working,Teacher,Private,yes,yes,Not Bad,no
+Male,18,Urban,Not working,Home Maker,other,yes,yes,Bad,no
+Female,17,Urban,Private,Home Maker,Self,no,yes,Bad,yes
+Female,18,Urban,Other,Home Maker,other,no,yes,Average,no
+Female,18,Urban,Private,other,Private,Occasionally,yes,Good,no
+Male,18,Rural,Other,Teacher,Private,no,yes,Bad,yes
+Male,18,Urban,Other,Teacher,other,no,yes,Bad,no
+Female,17,Metropolitan,Other,Doctor,other,yes,Other,Bad,yes
+Male,18,Rural,Private,other,other,Occasionally,yes,Bad,no
+Male,19,Rural,Government,other,Private,no,yes,Not Bad,yes
+Male,17,Urban,Other,Doctor,other,Occasionally,yes,Average,no
+Male,18,Urban,Other,Home Maker,Private,no,yes,Average,yes
+Male,19,Rural,Government,other,other,no,yes,Bad,no
+Male,17,Rural,Other,Home Maker,other,yes,yes,Not Bad,no
+Female,18,Urban,Other,Home Maker,Private,no,no,Bad,yes
+Female,17,Rural,Not working,Teacher,Private,yes,yes,Bad,no
+Female,17,Urban,Private,Home Maker,other,no,no,Bad,yes
+Male,18,Urban,Government,other,Private,no,yes,Average,no
+Female,18,Urban,Government,Home Maker,Private,Occasionally,yes,Bad,yes
+Female,18,Rural,Not working,Home Maker,other,no,no,Bad,no
+Male,18,Rural,Government,Home Maker,other,yes,no,Bad,yes
+Female,18,Urban,Other,Home Maker,Private,no,yes,Average,no
+Female,17,Metropolitan,Not working,Home Maker,Self,yes,Occasionally,Good,yes
+Female,17,Rural,Private,other,Private,no,no,Average,no
+Male,18,Rural,Other,Home Maker,other,no,no,Average,no
+Male,18,Urban,Not working,Teacher,Private,no,yes,Bad,yes
+Female,17,Rural,Government,other,Private,Occasionally,yes,Good,no
+Female,18,Urban,Other,Home Maker,Private,no,yes,Bad,no
+Female,18,Rural,Not working,other,Government,no,yes,Bad,yes
+Female,19,Urban,Private,Home Maker,Private,yes,no,Average,no
+Male,18,Rural,Private,Home Maker,Private,yes,Other,Average,no
+Female,17,Urban,Private,other,Self,yes,no,Average,no
+Female,17,Rural,Private,other,other,yes,yes,Good,yes
+Female,18,Rural,Not working,other,other,no,yes,Good,no
+Female,18,Rural,Government,other,other,no,yes,Bad,yes
+Female,20,Urban,Private,Doctor,other,Occasionally,yes,Average,no
+Female,18,Rural,Not working,Teacher,Private,yes,yes,Not Bad,no
+Female,18,Urban,Other,other,other,no,Occasionally,Good,yes
+Female,17,Rural,Government,Home Maker,other,yes,yes,Good,no
+Male,18,Metropolitan,Not working,Teacher,Government,yes,yes,Not Bad,no
+Male,18,Rural,Government,other,other,yes,yes,Bad,yes
+Male,17,Urban,Other,other,Private,yes,yes,Average,no
+Male,19,Rural,Government,other,Private,no,no,Bad,yes
+Male,18,Rural,Private,other,other,Occasionally,no,Average,no
+Female,18,Rural,Private,Home Maker,other,no,no,Bad,yes
+Female,18,Rural,Not working,Teacher,Self,yes,yes,Bad,no
+Female,19,Rural,Other,Home Maker,other,yes,yes,Bad,yes
+Female,18,Urban,Government,Teacher,Private,no,Occasionally,Good,no
+Female,18,Urban,Government,other,other,yes,no,Bad,no
+Male,20,Metropolitan,Private,Home Maker,Private,no,no,Bad,no
+Male,17,Urban,Government,Home Maker,Private,Occasionally,yes,Not Bad,no
+Male,21,Rural,Government,other,other,no,no,Average,yes
+Male,18,Rural,Private,Home Maker,other,no,yes,Bad,yes
+Male,19, Metropolitan,Government,other,Self,Occasionally,yes,Bad,yes
+,,,,,,,,,no
+,,,,,,,,,no
+,,,,,,,,,no
